@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+ChildComponent.js
+ClickEventCount.js
+FunctionClick.js
+ParentComponent.js
